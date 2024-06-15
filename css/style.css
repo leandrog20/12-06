@@ -31,7 +31,7 @@ main{
     position: relative;
     border-radius: 20px;
     box-shadow: 8px 6px 15px 20px rgba(0, 0, 0, 0.238);
-    margin-top: 300px;
+    margin-top: 480px;
 }
 
 .p1{
@@ -174,4 +174,17 @@ div.audio{
 
   footer p{
     padding-bottom: 2px;
+  }
+
+  a{
+    font-weight: 500;
+    color: white;
+    font-size: 14px;
+  }
+
+  mark{
+    background-color: #025E73;
+    opacity: 0.4;
+    padding:4px 6px 4px 6px;
+    border-radius: 10px;
   }
